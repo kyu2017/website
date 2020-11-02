@@ -1,7 +1,7 @@
 {
-  "name": "college",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "My portfolio",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,8 +9,8 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "kyu2017",
+  "license": "MIT",
   "dependencies": {
     "next": "^9.4.2",
     "react": "^16.13.1",
